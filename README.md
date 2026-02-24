@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Ryan</h1>
-<h3 align="center">I love Eating, Coding and Gaming</h3>
+<h3 align="center">I love Formula One, Coding and Eating</h3>
 
 
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Web Development, AI/ML and competitive programming**
 
-- 📫 Feel free to reach me at **kkryan42@gmail.com**
+- 📫 Feel free to reach me at **ryan.wu51299@gmail.com**
 
 # Check Out My Stats!
 ![](https://github-readme-stats.vercel.app/api?username=lmrw5&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
